@@ -1,4 +1,4 @@
-/**
+/**.
    * Create By Dika Ardnt.
    * Recode By Naze Dev
    * Contact Me on wa.me/628116646665
@@ -20,11 +20,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['Nomor kamu']
-global.ownernomer = "Nomor Kamu"
-global.premium = ['Nomor kamu']
-global.packname = 'Sticker By'
-global.author = 'GabutBot v3.1'
+global.owner = ['6285848651208']
+global.ownernomer = "6285848651208"
+global.premium = ['6285848651208']
+global.packname = 'Rull By'
+global.author = 'RullzBot v3.1'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -52,7 +52,7 @@ global.mess = {
 // Limit
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 10
 }
 
 // Fake
